@@ -1,0 +1,28 @@
+.add-remove-buttons {
+    justify-content: right;
+    display: flex;
+    gap: 20px;
+    padding-right: 50px;
+    margin-top: 50px;
+}
+
+.add-button {
+    top: 35px;
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    right: calc(50% - 60px);
+    text-align: center;
+    color: white;
+    background-color: grey;
+    border-radius: 4px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    font-family:'Courier New', Courier, monospace;
+}
+
+.remove-button {
+    color: white;
+    background-color: grey;
+    border-radius: 4px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}

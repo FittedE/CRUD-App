@@ -1,0 +1,23 @@
+.remove {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.yes {
+    width: 100px;
+    font-size: 16px;
+    background-color: rgb(235, 255, 235);
+    margin-right: 20px;
+}
+
+.no {
+    width: 100px;
+    font-size: 16px;
+    background-color: rgb(255, 235, 235);
+    margin-left: 20px;
+}

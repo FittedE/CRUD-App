@@ -1,0 +1,37 @@
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #C8102E;
+    color: #fff;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .login {
+    padding: 10px 20px;
+    background-color: #ffbb00;
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .login:hover {
+    background-color: #dd9700;
+  }
+  
+  .signup {
+    padding: 10px 20px;
+    background-color: #ffbb00;
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  

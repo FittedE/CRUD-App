@@ -1,0 +1,10 @@
+.card {
+    justify-content: center;
+    border-radius: 4px;
+    font-family:'Courier New', Courier, monospace;
+    margin: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    height: 300px;
+    width: 250px;
+}
